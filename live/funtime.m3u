@@ -1,0 +1,305 @@
+#EXTM3U
+
+# Funtime - This playlist is for Bangladeshi local ISP providers, it may or may not play on your ISP.
+# There is no specific expiration date mentioned on the server.
+# This is collected from public sources, collected by: johirxofficial
+
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="196" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="" group-title="ALL CHANNELS",BTV NATIONAL HD
+http://172.21.22.23:8080/live/7654321/1234567/196.m3u8
+#EXTINF:-1 xui-id="197" tvg-id="" tvg-name="BTV WORLD" tvg-logo="" group-title="ALL CHANNELS",BTV WORLD
+http://172.21.22.23:8080/live/7654321/1234567/197.m3u8
+#EXTINF:-1 xui-id="198" tvg-id="" tvg-name="ATN BANGLA" tvg-logo="" group-title="ALL CHANNELS",ATN BANGLA
+http://172.21.22.23:8080/live/7654321/1234567/198.m3u8
+#EXTINF:-1 xui-id="199" tvg-id="" tvg-name="BTV CHATTAGRAM" tvg-logo="" group-title="ALL CHANNELS",BTV CHATTAGRAM
+http://172.21.22.23:8080/live/7654321/1234567/199.m3u8
+#EXTINF:-1 xui-id="200" tvg-id="" tvg-name="CHANNEL I HD" tvg-logo="" group-title="ALL CHANNELS",CHANNEL I HD
+http://172.21.22.23:8080/live/7654321/1234567/200.m3u8
+#EXTINF:-1 xui-id="201" tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="" group-title="ALL CHANNELS",EKUSHEY TV
+http://172.21.22.23:8080/live/7654321/1234567/201.m3u8
+#EXTINF:-1 xui-id="202" tvg-id="" tvg-name="NTV" tvg-logo="" group-title="ALL CHANNELS",NTV
+http://172.21.22.23:8080/live/7654321/1234567/202.m3u8
+#EXTINF:-1 xui-id="203" tvg-id="" tvg-name="RTV HD" tvg-logo="" group-title="ALL CHANNELS",RTV HD
+http://172.21.22.23:8080/live/7654321/1234567/203.m3u8
+#EXTINF:-1 xui-id="204" tvg-id="" tvg-name="BOISHAKHI TV HD" tvg-logo="" group-title="ALL CHANNELS",BOISHAKHI TV HD
+http://172.21.22.23:8080/live/7654321/1234567/204.m3u8
+#EXTINF:-1 xui-id="205" tvg-id="" tvg-name="BANGLA VISION" tvg-logo="" group-title="ALL CHANNELS",BANGLA VISION
+http://172.21.22.23:8080/live/7654321/1234567/205.m3u8
+#EXTINF:-1 xui-id="206" tvg-id="" tvg-name="DESH TV" tvg-logo="" group-title="ALL CHANNELS",DESH TV
+http://172.21.22.23:8080/live/7654321/1234567/206.m3u8
+#EXTINF:-1 xui-id="207" tvg-id="" tvg-name="MYTV HD" tvg-logo="" group-title="ALL CHANNELS",MYTV HD
+http://172.21.22.23:8080/live/7654321/1234567/207.m3u8
+#EXTINF:-1 xui-id="208" tvg-id="" tvg-name="ATN NEWS HD" tvg-logo="" group-title="ALL CHANNELS",ATN NEWS HD
+http://172.21.22.23:8080/live/7654321/1234567/208.m3u8
+#EXTINF:-1 xui-id="209" tvg-id="" tvg-name="MOHONA TV HD" tvg-logo="" group-title="ALL CHANNELS",MOHONA TV HD
+http://172.21.22.23:8080/live/7654321/1234567/209.m3u8
+#EXTINF:-1 xui-id="210" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="" group-title="ALL CHANNELS",SOMOY TV HD
+http://172.21.22.23:8080/live/7654321/1234567/210.m3u8
+#EXTINF:-1 xui-id="211" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="" group-title="ALL CHANNELS",INDEPENDENT TV
+http://172.21.22.23:8080/live/7654321/1234567/211.m3u8
+#EXTINF:-1 xui-id="212" tvg-id="" tvg-name="CHANNEL 24 HD" tvg-logo="" group-title="ALL CHANNELS",CHANNEL 24 HD
+http://172.21.22.23:8080/live/7654321/1234567/212.m3u8
+#EXTINF:-1 xui-id="213" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="" group-title="ALL CHANNELS",GAZI TV HD
+http://172.21.22.23:8080/live/7654321/1234567/213.m3u8
+#EXTINF:-1 xui-id="214" tvg-id="" tvg-name="EKATTOR TV HD" tvg-logo="" group-title="ALL CHANNELS",EKATTOR TV HD
+http://172.21.22.23:8080/live/7654321/1234567/214.m3u8
+#EXTINF:-1 xui-id="215" tvg-id="" tvg-name="ASIAN TV HD" tvg-logo="" group-title="ALL CHANNELS",ASIAN TV HD
+http://172.21.22.23:8080/live/7654321/1234567/215.m3u8
+#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="SATV HD" tvg-logo="" group-title="ALL CHANNELS",SATV HD
+http://172.21.22.23:8080/live/7654321/1234567/216.m3u8
+#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="" group-title="ALL CHANNELS",JAMUNA TV
+http://172.21.22.23:8080/live/7654321/1234567/217.m3u8
+#EXTINF:-1 xui-id="218" tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="" group-title="ALL CHANNELS",DEEPTO TV HD
+http://172.21.22.23:8080/live/7654321/1234567/218.m3u8
+#EXTINF:-1 xui-id="219" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="" group-title="ALL CHANNELS",DBC NEWS HD
+http://172.21.22.23:8080/live/7654321/1234567/219.m3u8
+#EXTINF:-1 xui-id="220" tvg-id="" tvg-name="NEWS24 HD" tvg-logo="" group-title="ALL CHANNELS",NEWS24 HD
+http://172.21.22.23:8080/live/7654321/1234567/220.m3u8
+#EXTINF:-1 xui-id="221" tvg-id="" tvg-name="BANGLA TV HD" tvg-logo="" group-title="ALL CHANNELS",BANGLA TV HD
+http://172.21.22.23:8080/live/7654321/1234567/221.m3u8
+#EXTINF:-1 xui-id="222" tvg-id="" tvg-name="DURONTO TV HD" tvg-logo="" group-title="ALL CHANNELS",DURONTO TV HD
+http://172.21.22.23:8080/live/7654321/1234567/222.m3u8
+#EXTINF:-1 xui-id="223" tvg-id="" tvg-name="NAGORIK TV HD" tvg-logo="" group-title="ALL CHANNELS",NAGORIK TV HD
+http://172.21.22.23:8080/live/7654321/1234567/223.m3u8
+#EXTINF:-1 xui-id="224" tvg-id="" tvg-name="ANANDA TV" tvg-logo="" group-title="ALL CHANNELS",ANANDA TV
+http://172.21.22.23:8080/live/7654321/1234567/224.m3u8
+#EXTINF:-1 xui-id="225" tvg-id="" tvg-name="EKHON TV" tvg-logo="" group-title="ALL CHANNELS",EKHON TV
+http://172.21.22.23:8080/live/7654321/1234567/225.m3u8
+#EXTINF:-1 xui-id="226" tvg-id="" tvg-name="MAASRANGA TV HD" tvg-logo="" group-title="ALL CHANNELS",MAASRANGA TV HD
+http://172.21.22.23:8080/live/7654321/1234567/226.m3u8
+#EXTINF:-1 xui-id="227" tvg-id="" tvg-name="STAR JALSHA HD" tvg-logo="" group-title="ALL CHANNELS",STAR JALSHA HD
+http://172.21.22.23:8080/live/7654321/1234567/227.m3u8
+#EXTINF:-1 xui-id="228" tvg-id="" tvg-name="ZEE BANGLA HD" tvg-logo="" group-title="ALL CHANNELS",ZEE BANGLA HD
+http://172.21.22.23:8080/live/7654321/1234567/228.m3u8
+#EXTINF:-1 xui-id="229" tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="" group-title="ALL CHANNELS",COLORS BANGLA HD
+http://172.21.22.23:8080/live/7654321/1234567/229.m3u8
+#EXTINF:-1 xui-id="230" tvg-id="" tvg-name="SONY ATTH" tvg-logo="" group-title="ALL CHANNELS",SONY ATTH
+http://172.21.22.23:8080/live/7654321/1234567/230.m3u8
+#EXTINF:-1 xui-id="231" tvg-id="" tvg-name="SUN BANGLA HD" tvg-logo="" group-title="ALL CHANNELS",SUN BANGLA HD
+http://172.21.22.23:8080/live/7654321/1234567/231.m3u8
+#EXTINF:-1 xui-id="232" tvg-id="" tvg-name="ENTER 10 BANGLA" tvg-logo="" group-title="ALL CHANNELS",ENTER 10 BANGLA
+http://172.21.22.23:8080/live/7654321/1234567/232.m3u8
+#EXTINF:-1 xui-id="233" tvg-id="" tvg-name="KHUSHBOO" tvg-logo="" group-title="ALL CHANNELS",KHUSHBOO
+http://172.21.22.23:8080/live/7654321/1234567/233.m3u8
+#EXTINF:-1 xui-id="234" tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="" group-title="ALL CHANNELS",JALSHA MOVIES HD
+http://172.21.22.23:8080/live/7654321/1234567/234.m3u8
+#EXTINF:-1 xui-id="235" tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="" group-title="ALL CHANNELS",ZEE BANGLA CINEMA
+http://172.21.22.23:8080/live/7654321/1234567/235.m3u8
+#EXTINF:-1 xui-id="236" tvg-id="" tvg-name="STAR PLUS HD" tvg-logo="" group-title="ALL CHANNELS",STAR PLUS HD
+http://172.21.22.23:8080/live/7654321/1234567/236.m3u8
+#EXTINF:-1 xui-id="237" tvg-id="" tvg-name="SONY HD" tvg-logo="" group-title="ALL CHANNELS",SONY HD
+http://172.21.22.23:8080/live/7654321/1234567/237.m3u8
+#EXTINF:-1 xui-id="238" tvg-id="" tvg-name="ZEE TV HD" tvg-logo="" group-title="ALL CHANNELS",ZEE TV HD
+http://172.21.22.23:8080/live/7654321/1234567/238.m3u8
+#EXTINF:-1 xui-id="239" tvg-id="" tvg-name="COLORS HD" tvg-logo="" group-title="ALL CHANNELS",COLORS HD
+http://172.21.22.23:8080/live/7654321/1234567/239.m3u8
+#EXTINF:-1 xui-id="240" tvg-id="" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="ALL CHANNELS",STAR BHARAT HD
+http://172.21.22.23:8080/live/7654321/1234567/240.m3u8
+#EXTINF:-1 xui-id="241" tvg-id="" tvg-name="&TV HD" tvg-logo="" group-title="ALL CHANNELS",&TV HD
+http://172.21.22.23:8080/live/7654321/1234567/241.m3u8
+#EXTINF:-1 xui-id="242" tvg-id="" tvg-name="ARY DIGITAL HD" tvg-logo="" group-title="ALL CHANNELS",ARY DIGITAL HD
+http://172.21.22.23:8080/live/7654321/1234567/242.m3u8
+#EXTINF:-1 xui-id="243" tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="" group-title="ALL CHANNELS",STAR GOLD HD
+http://172.21.22.23:8080/live/7654321/1234567/243.m3u8
+#EXTINF:-1 xui-id="244" tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="ALL CHANNELS",ZEE CINEMA HD
+http://172.21.22.23:8080/live/7654321/1234567/244.m3u8
+#EXTINF:-1 xui-id="245" tvg-id="" tvg-name="& PICTURE HD" tvg-logo="" group-title="ALL CHANNELS",& PICTURE HD
+http://172.21.22.23:8080/live/7654321/1234567/245.m3u8
+#EXTINF:-1 xui-id="246" tvg-id="" tvg-name="SONY MAX HD" tvg-logo="" group-title="ALL CHANNELS",SONY MAX HD
+http://172.21.22.23:8080/live/7654321/1234567/246.m3u8
+#EXTINF:-1 xui-id="247" tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="" group-title="ALL CHANNELS",COLORS CINEPLEX HD
+http://172.21.22.23:8080/live/7654321/1234567/247.m3u8
+#EXTINF:-1 xui-id="248" tvg-id="" tvg-name="STAR GOLD 2 HD" tvg-logo="" group-title="ALL CHANNELS",STAR GOLD 2 HD
+http://172.21.22.23:8080/live/7654321/1234567/248.m3u8
+#EXTINF:-1 xui-id="249" tvg-id="" tvg-name="STAR GOLD SEL HD" tvg-logo="" group-title="ALL CHANNELS",STAR GOLD SEL HD
+http://172.21.22.23:8080/live/7654321/1234567/249.m3u8
+#EXTINF:-1 xui-id="250" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="" group-title="ALL CHANNELS",T SPORTS HD
+http://172.21.22.23:8080/live/7654321/1234567/250.m3u8
+#EXTINF:-1 xui-id="251" tvg-id="" tvg-name="T SPORTS FHD" tvg-logo="" group-title="ALL CHANNELS",T SPORTS FHD
+http://172.21.22.23:8080/live/7654321/1234567/251.m3u8
+#EXTINF:-1 xui-id="252" tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="" group-title="ALL CHANNELS",SONY TEN 1 HD
+http://172.21.22.23:8080/live/7654321/1234567/252.m3u8
+#EXTINF:-1 xui-id="253" tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="" group-title="ALL CHANNELS",SONY TEN 2 HD
+http://172.21.22.23:8080/live/7654321/1234567/253.m3u8
+#EXTINF:-1 xui-id="254" tvg-id="" tvg-name="SONY TEN 3 HD" tvg-logo="" group-title="ALL CHANNELS",SONY TEN 3 HD
+http://172.21.22.23:8080/live/7654321/1234567/254.m3u8
+#EXTINF:-1 xui-id="255" tvg-id="" tvg-name="SONY TEN 5 HD" tvg-logo="" group-title="ALL CHANNELS",SONY TEN 5 HD
+http://172.21.22.23:8080/live/7654321/1234567/255.m3u8
+#EXTINF:-1 xui-id="256" tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="" group-title="ALL CHANNELS",STAR SPORTS 1 HD
+http://172.21.22.23:8080/live/7654321/1234567/256.m3u8
+#EXTINF:-1 xui-id="257" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="ALL CHANNELS",STAR SPORTS 2 HD
+http://172.21.22.23:8080/live/7654321/1234567/257.m3u8
+#EXTINF:-1 xui-id="258" tvg-id="" tvg-name="STAR SPORTS HINDI 2 HD" tvg-logo="" group-title="ALL CHANNELS",STAR SPORTS HINDI 2 HD
+http://172.21.22.23:8080/live/7654321/1234567/258.m3u8
+#EXTINF:-1 xui-id="259" tvg-id="" tvg-name="STAR SPORTS SL1 HD" tvg-logo="" group-title="ALL CHANNELS",STAR SPORTS SL1 HD
+http://172.21.22.23:8080/live/7654321/1234567/259.m3u8
+#EXTINF:-1 xui-id="260" tvg-id="" tvg-name="STAR SPORTS SL 2 HD" tvg-logo="" group-title="ALL CHANNELS",STAR SPORTS SL 2 HD
+http://172.21.22.23:8080/live/7654321/1234567/260.m3u8
+#EXTINF:-1 xui-id="261" tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="" group-title="ALL CHANNELS",STAR SPORTS 3
+http://172.21.22.23:8080/live/7654321/1234567/261.m3u8
+#EXTINF:-1 xui-id="262" tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="" group-title="ALL CHANNELS",EUROSPORTS HD
+http://172.21.22.23:8080/live/7654321/1234567/262.m3u8
+#EXTINF:-1 xui-id="263" tvg-id="" tvg-name="A SPORTS HD" tvg-logo="" group-title="ALL CHANNELS",A SPORTS HD
+http://172.21.22.23:8080/live/7654321/1234567/263.m3u8
+#EXTINF:-1 xui-id="264" tvg-id="" tvg-name="PTV SPORTS HD" tvg-logo="" group-title="ALL CHANNELS",PTV SPORTS HD
+http://172.21.22.23:8080/live/7654321/1234567/264.m3u8
+#EXTINF:-1 xui-id="265" tvg-id="" tvg-name="TNT SPORT 1 HD" tvg-logo="" group-title="ALL CHANNELS",TNT SPORT 1 HD
+http://172.21.22.23:8080/live/7654321/1234567/265.m3u8
+#EXTINF:-1 xui-id="266" tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="" group-title="ALL CHANNELS",TNT SPORTS 2 HD
+http://172.21.22.23:8080/live/7654321/1234567/266.m3u8
+#EXTINF:-1 xui-id="267" tvg-id="" tvg-name="TNT SPORTS 3 HD" tvg-logo="" group-title="ALL CHANNELS",TNT SPORTS 3 HD
+http://172.21.22.23:8080/live/7654321/1234567/267.m3u8
+#EXTINF:-1 xui-id="268" tvg-id="" tvg-name="TNT SPORTS 4 HD" tvg-logo="" group-title="ALL CHANNELS",TNT SPORTS 4 HD
+http://172.21.22.23:8080/live/7654321/1234567/268.m3u8
+#EXTINF:-1 xui-id="269" tvg-id="" tvg-name="WILLOW CRICKET HD" tvg-logo="" group-title="ALL CHANNELS",WILLOW CRICKET HD
+http://172.21.22.23:8080/live/7654321/1234567/269.m3u8
+#EXTINF:-1 xui-id="270" tvg-id="" tvg-name="WILLOW CRICKET 2 HD" tvg-logo="" group-title="ALL CHANNELS",WILLOW CRICKET 2 HD
+http://172.21.22.23:8080/live/7654321/1234567/270.m3u8
+#EXTINF:-1 xui-id="271" tvg-id="" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="" group-title="ALL CHANNELS",SKY SPORTS CRICKET HD
+http://172.21.22.23:8080/live/7654321/1234567/271.m3u8
+#EXTINF:-1 xui-id="272" tvg-id="" tvg-name="SKY SPORTS GOLF HD" tvg-logo="" group-title="ALL CHANNELS",SKY SPORTS GOLF HD
+http://172.21.22.23:8080/live/7654321/1234567/272.m3u8
+#EXTINF:-1 xui-id="273" tvg-id="" tvg-name="NBC GOLF HD" tvg-logo="" group-title="ALL CHANNELS",NBC GOLF HD
+http://172.21.22.23:8080/live/7654321/1234567/273.m3u8
+#EXTINF:-1 xui-id="274" tvg-id="" tvg-name="SSC SPORTS 1 HD" tvg-logo="" group-title="ALL CHANNELS",SSC SPORTS 1 HD
+http://172.21.22.23:8080/live/7654321/1234567/274.m3u8
+#EXTINF:-1 xui-id="275" tvg-id="" tvg-name="BEIN SPORTS 1 ENG" tvg-logo="" group-title="ALL CHANNELS",BEIN SPORTS 1 ENG
+http://172.21.22.23:8080/live/7654321/1234567/275.m3u8
+#EXTINF:-1 xui-id="276" tvg-id="" tvg-name="BEIN  SPORTS 2 ENG" tvg-logo="" group-title="ALL CHANNELS",BEIN  SPORTS 2 ENG
+http://172.21.22.23:8080/live/7654321/1234567/276.m3u8
+#EXTINF:-1 xui-id="277" tvg-id="" tvg-name="24 GHANTA" tvg-logo="" group-title="ALL CHANNELS",24 GHANTA
+http://172.21.22.23:8080/live/7654321/1234567/277.m3u8
+#EXTINF:-1 xui-id="278" tvg-id="" tvg-name="ABP NEWS" tvg-logo="" group-title="ALL CHANNELS",ABP NEWS
+http://172.21.22.23:8080/live/7654321/1234567/278.m3u8
+#EXTINF:-1 xui-id="279" tvg-id="" tvg-name="GEO NEWS" tvg-logo="" group-title="ALL CHANNELS",GEO NEWS
+http://172.21.22.23:8080/live/7654321/1234567/279.m3u8
+#EXTINF:-1 xui-id="280" tvg-id="" tvg-name="ARY NEWS ASIA" tvg-logo="" group-title="ALL CHANNELS",ARY NEWS ASIA
+http://172.21.22.23:8080/live/7654321/1234567/280.m3u8
+#EXTINF:-1 xui-id="281" tvg-id="" tvg-name="AL JAZEERA NEWS" tvg-logo="" group-title="ALL CHANNELS",AL JAZEERA NEWS
+http://172.21.22.23:8080/live/7654321/1234567/281.m3u8
+#EXTINF:-1 xui-id="282" tvg-id="" tvg-name="BBC WORLD" tvg-logo="" group-title="ALL CHANNELS",BBC WORLD
+http://172.21.22.23:8080/live/7654321/1234567/282.m3u8
+#EXTINF:-1 xui-id="283" tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="" group-title="ALL CHANNELS",CNN INTERNATIONAL
+http://172.21.22.23:8080/live/7654321/1234567/283.m3u8
+#EXTINF:-1 xui-id="284" tvg-id="" tvg-name="CGTN NEWS" tvg-logo="" group-title="ALL CHANNELS",CGTN NEWS
+http://172.21.22.23:8080/live/7654321/1234567/284.m3u8
+#EXTINF:-1 xui-id="285" tvg-id="" tvg-name="DW ENGLISH HD" tvg-logo="" group-title="ALL CHANNELS",DW ENGLISH HD
+http://172.21.22.23:8080/live/7654321/1234567/285.m3u8
+#EXTINF:-1 xui-id="286" tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="" group-title="ALL CHANNELS",DISCOVERY HD
+http://172.21.22.23:8080/live/7654321/1234567/286.m3u8
+#EXTINF:-1 xui-id="287" tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="ALL CHANNELS",NAT GEO HD
+http://172.21.22.23:8080/live/7654321/1234567/287.m3u8
+#EXTINF:-1 xui-id="288" tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="ALL CHANNELS",NAT GEO WILD HD
+http://172.21.22.23:8080/live/7654321/1234567/288.m3u8
+#EXTINF:-1 xui-id="289" tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="" group-title="ALL CHANNELS",ANIMAL PLANET HD
+http://172.21.22.23:8080/live/7654321/1234567/289.m3u8
+#EXTINF:-1 xui-id="290" tvg-id="" tvg-name="SONY BBC EARTH HD" tvg-logo="" group-title="ALL CHANNELS",SONY BBC EARTH HD
+http://172.21.22.23:8080/live/7654321/1234567/290.m3u8
+#EXTINF:-1 xui-id="291" tvg-id="" tvg-name="TRAVEL XP HD" tvg-logo="" group-title="ALL CHANNELS",TRAVEL XP HD
+http://172.21.22.23:8080/live/7654321/1234567/291.m3u8
+#EXTINF:-1 xui-id="292" tvg-id="" tvg-name="HISTORY TV HD" tvg-logo="" group-title="ALL CHANNELS",HISTORY TV HD
+http://172.21.22.23:8080/live/7654321/1234567/292.m3u8
+#EXTINF:-1 xui-id="293" tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="ALL CHANNELS",TLC HD
+http://172.21.22.23:8080/live/7654321/1234567/293.m3u8
+#EXTINF:-1 xui-id="294" tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="ALL CHANNELS",CARTOON NETWORK HD
+http://172.21.22.23:8080/live/7654321/1234567/294.m3u8
+#EXTINF:-1 xui-id="295" tvg-id="" tvg-name="NICK TV HD+" tvg-logo="" group-title="ALL CHANNELS",NICK TV HD+
+http://172.21.22.23:8080/live/7654321/1234567/295.m3u8
+#EXTINF:-1 xui-id="296" tvg-id="" tvg-name="DISNEY INT. HD" tvg-logo="" group-title="ALL CHANNELS",DISNEY INT. HD
+http://172.21.22.23:8080/live/7654321/1234567/296.m3u8
+#EXTINF:-1 xui-id="297" tvg-id="" tvg-name="CARTOON NETWORK SD" tvg-logo="" group-title="ALL CHANNELS",CARTOON NETWORK SD
+http://172.21.22.23:8080/live/7654321/1234567/297.m3u8
+#EXTINF:-1 xui-id="298" tvg-id="" tvg-name="NICK SD" tvg-logo="" group-title="ALL CHANNELS",NICK SD
+http://172.21.22.23:8080/live/7654321/1234567/298.m3u8
+#EXTINF:-1 xui-id="299" tvg-id="" tvg-name="SONIC" tvg-logo="" group-title="ALL CHANNELS",SONIC
+http://172.21.22.23:8080/live/7654321/1234567/299.m3u8
+#EXTINF:-1 xui-id="300" tvg-id="" tvg-name="POGO" tvg-logo="" group-title="ALL CHANNELS",POGO
+http://172.21.22.23:8080/live/7654321/1234567/300.m3u8
+#EXTINF:-1 xui-id="301" tvg-id="" tvg-name="NICK JUNIOR" tvg-logo="" group-title="ALL CHANNELS",NICK JUNIOR
+http://172.21.22.23:8080/live/7654321/1234567/301.m3u8
+#EXTINF:-1 xui-id="302" tvg-id="" tvg-name="HUNGAMA SUPER SD" tvg-logo="" group-title="ALL CHANNELS",HUNGAMA SUPER SD
+http://172.21.22.23:8080/live/7654321/1234567/302.m3u8
+#EXTINF:-1 xui-id="303" tvg-id="" tvg-name="HUNGAMA SD" tvg-logo="" group-title="ALL CHANNELS",HUNGAMA SD
+http://172.21.22.23:8080/live/7654321/1234567/303.m3u8
+#EXTINF:-1 xui-id="304" tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="ALL CHANNELS",DISCOVERY KIDS
+http://172.21.22.23:8080/live/7654321/1234567/304.m3u8
+#EXTINF:-1 xui-id="305" tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="ALL CHANNELS",DISNEY JUNIOR
+http://172.21.22.23:8080/live/7654321/1234567/305.m3u8
+#EXTINF:-1 xui-id="306" tvg-id="" tvg-name="SONY PIX HD" tvg-logo="" group-title="ALL CHANNELS",SONY PIX HD
+http://172.21.22.23:8080/live/7654321/1234567/306.m3u8
+#EXTINF:-1 xui-id="307" tvg-id="" tvg-name="&FLIX HD" tvg-logo="" group-title="ALL CHANNELS",&FLIX HD
+http://172.21.22.23:8080/live/7654321/1234567/307.m3u8
+#EXTINF:-1 xui-id="308" tvg-id="" tvg-name="COLORS INFINITY HD" tvg-logo="" group-title="ALL CHANNELS",COLORS INFINITY HD
+http://172.21.22.23:8080/live/7654321/1234567/308.m3u8
+#EXTINF:-1 xui-id="309" tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="ALL CHANNELS",STAR MOVIES HD
+http://172.21.22.23:8080/live/7654321/1234567/309.m3u8
+#EXTINF:-1 xui-id="310" tvg-id="" tvg-name="STAR MOVIES SEL HD" tvg-logo="" group-title="ALL CHANNELS",STAR MOVIES SEL HD
+http://172.21.22.23:8080/live/7654321/1234567/310.m3u8
+#EXTINF:-1 xui-id="311" tvg-id="" tvg-name="MN+ HD" tvg-logo="" group-title="ALL CHANNELS",MN+ HD
+http://172.21.22.23:8080/live/7654321/1234567/311.m3u8
+#EXTINF:-1 xui-id="312" tvg-id="" tvg-name="MOVIES NOW HD" tvg-logo="" group-title="ALL CHANNELS",MOVIES NOW HD
+http://172.21.22.23:8080/live/7654321/1234567/312.m3u8
+#EXTINF:-1 xui-id="313" tvg-id="" tvg-name="ZEE CAFE HD" tvg-logo="" group-title="ALL CHANNELS",ZEE CAFE HD
+http://172.21.22.23:8080/live/7654321/1234567/313.m3u8
+#EXTINF:-1 xui-id="314" tvg-id="" tvg-name="& PRIVE HD" tvg-logo="" group-title="ALL CHANNELS",& PRIVE HD
+http://172.21.22.23:8080/live/7654321/1234567/314.m3u8
+#EXTINF:-1 xui-id="315" tvg-id="" tvg-name="ROMEDY NOW" tvg-logo="" group-title="ALL CHANNELS",ROMEDY NOW
+http://172.21.22.23:8080/live/7654321/1234567/315.m3u8
+#EXTINF:-1 xui-id="316" tvg-id="" tvg-name="MNX" tvg-logo="" group-title="ALL CHANNELS",MNX
+http://172.21.22.23:8080/live/7654321/1234567/316.m3u8
+#EXTINF:-1 xui-id="317" tvg-id="" tvg-name="SANGEET BANGLA" tvg-logo="" group-title="ALL CHANNELS",SANGEET BANGLA
+http://172.21.22.23:8080/live/7654321/1234567/317.m3u8
+#EXTINF:-1 xui-id="318" tvg-id="" tvg-name="9XM" tvg-logo="" group-title="ALL CHANNELS",9XM
+http://172.21.22.23:8080/live/7654321/1234567/318.m3u8
+#EXTINF:-1 xui-id="319" tvg-id="" tvg-name="MASTIII" tvg-logo="" group-title="ALL CHANNELS",MASTIII
+http://172.21.22.23:8080/live/7654321/1234567/319.m3u8
+#EXTINF:-1 xui-id="320" tvg-id="" tvg-name="MTV INDIA HD" tvg-logo="" group-title="ALL CHANNELS",MTV INDIA HD
+http://172.21.22.23:8080/live/7654321/1234567/320.m3u8
+#EXTINF:-1 xui-id="321" tvg-id="" tvg-name="Peace TV Bangla  HD" tvg-logo="" group-title="ALL CHANNELS",Peace TV Bangla  HD
+http://172.21.22.23:8080/live/7654321/1234567/321.m3u8
+#EXTINF:-1 xui-id="322" tvg-id="" tvg-name="SAUDI  QURAN" tvg-logo="" group-title="ALL CHANNELS",SAUDI  QURAN
+http://172.21.22.23:8080/live/7654321/1234567/322.m3u8
+#EXTINF:-1 xui-id="323" tvg-id="" tvg-name="SAUDI SUNNAH" tvg-logo="" group-title="ALL CHANNELS",SAUDI SUNNAH
+http://172.21.22.23:8080/live/7654321/1234567/323.m3u8
+#EXTINF:-1 xui-id="324" tvg-id="" tvg-name="DISNEY CHANNELS" tvg-logo="" group-title="ALL CHANNELS",DISNEY CHANNELS
+http://172.21.22.23:8080/live/7654321/1234567/324.m3u8
+#EXTINF:-1 xui-id="325" tvg-id="" tvg-name="CHANNEL 9 HD" tvg-logo="" group-title="ALL CHANNELS",CHANNEL 9 HD
+http://172.21.22.23:8080/live/7654321/1234567/325.m3u8
+#EXTINF:-1 xui-id="326" tvg-id="" tvg-name="R.TV BANGLA NEWS" tvg-logo="" group-title="ALL CHANNELS",R.TV BANGLA NEWS
+http://172.21.22.23:8080/live/7654321/1234567/326.m3u8
+#EXTINF:-1 xui-id="327" tvg-id="" tvg-name="SONY SAB HD" tvg-logo="" group-title="ALL CHANNELS",SONY SAB HD
+http://172.21.22.23:8080/live/7654321/1234567/327.m3u8
+#EXTINF:-1 xui-id="328" tvg-id="" tvg-name="AKASH BANGLA" tvg-logo="" group-title="ALL CHANNELS",AKASH BANGLA
+http://172.21.22.23:8080/live/7654321/1234567/328.m3u8
+#EXTINF:-1 xui-id="329" tvg-id="" tvg-name="BIJOY TV" tvg-logo="" group-title="ALL CHANNELS",BIJOY TV
+http://172.21.22.23:8080/live/7654321/1234567/329.m3u8
+#EXTINF:-1 xui-id="330" tvg-id="" tvg-name="BTV NEWS HD" tvg-logo="" group-title="ALL CHANNELS",BTV NEWS HD
+http://172.21.22.23:8080/live/7654321/1234567/330.m3u8
+#EXTINF:-1 xui-id="331" tvg-id="" tvg-name="SAMAA TV" tvg-logo="" group-title="ALL CHANNELS",SAMAA TV
+http://172.21.22.23:8080/live/7654321/1234567/331.m3u8
+#EXTINF:-1 xui-id="332" tvg-id="" tvg-name="HUM TV HD" tvg-logo="" group-title="ALL CHANNELS",HUM TV HD
+http://172.21.22.23:8080/live/7654321/1234567/332.m3u8
+#EXTINF:-1 xui-id="333" tvg-id="" tvg-name="AAJ TAK" tvg-logo="" group-title="ALL CHANNELS",AAJ TAK
+http://172.21.22.23:8080/live/7654321/1234567/333.m3u8
+#EXTINF:-1 xui-id="334" tvg-id="" tvg-name="NDTV 24x7" tvg-logo="" group-title="ALL CHANNELS",NDTV 24x7
+http://172.21.22.23:8080/live/7654321/1234567/334.m3u8
+#EXTINF:-1 xui-id="335" tvg-id="" tvg-name="NDTV INDIA" tvg-logo="" group-title="ALL CHANNELS",NDTV INDIA
+http://172.21.22.23:8080/live/7654321/1234567/335.m3u8
+#EXTINF:-1 xui-id="336" tvg-id="" tvg-name="CHANNEL S" tvg-logo="" group-title="ALL CHANNELS",CHANNEL S
+http://172.21.22.23:8080/live/7654321/1234567/336.m3u8
+#EXTINF:-1 xui-id="337" tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="ALL CHANNELS",DISCOVERY SCIENCE
+http://172.21.22.23:8080/live/7654321/1234567/337.m3u8
+#EXTINF:-1 xui-id="338" tvg-id="" tvg-name="ID DISCOVERY" tvg-logo="" group-title="ALL CHANNELS",ID DISCOVERY
+http://172.21.22.23:8080/live/7654321/1234567/338.m3u8
+#EXTINF:-1 xui-id="339" tvg-id="" tvg-name="MADANI TV" tvg-logo="" group-title="ALL CHANNELS",MADANI TV
+http://172.21.22.23:8080/live/7654321/1234567/339.m3u8
+#EXTINF:-1 xui-id="340" tvg-id="" tvg-name="GLOBAL TV" tvg-logo="" group-title="ALL CHANNELS",GLOBAL TV
+http://172.21.22.23:8080/live/7654321/1234567/340.m3u8
+#EXTINF:-1 xui-id="341" tvg-id="" tvg-name="NEXUS TV HD" tvg-logo="" group-title="ALL CHANNELS",NEXUS TV HD
+http://172.21.22.23:8080/live/7654321/1234567/341.m3u8
+#EXTINF:-1 xui-id="342" tvg-id="" tvg-name="ZEE NEWS" tvg-logo="" group-title="ALL CHANNELS",ZEE NEWS
+http://172.21.22.23:8080/live/7654321/1234567/342.m3u8
+#EXTINF:-1 xui-id="343" tvg-id="" tvg-name="GEO SUPER HD" tvg-logo="" group-title="ALL CHANNELS",GEO SUPER HD
+http://172.21.22.23:8080/live/7654321/1234567/343.m3u8
+#EXTINF:-1 xui-id="344" tvg-id="" tvg-name="SKY SPORTS PRIMIER LEAGUE" tvg-logo="" group-title="ALL CHANNELS",SKY SPORTS PRIMIER LEAGUE
+http://172.21.22.23:8080/live/7654321/1234567/344.m3u8
