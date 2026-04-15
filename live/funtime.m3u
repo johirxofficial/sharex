@@ -4,6 +4,7 @@
 # There is no specific expiration date mentioned on the server.
 # This is collected from public sources, collected by: johirxofficial
 
+# ALL CHANNELS
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="196" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="" group-title="ALL CHANNELS",BTV NATIONAL HD
 http://172.21.22.23:8080/live/7654321/1234567/196.m3u8
@@ -303,3 +304,7 @@ http://172.21.22.23:8080/live/7654321/1234567/342.m3u8
 http://172.21.22.23:8080/live/7654321/1234567/343.m3u8
 #EXTINF:-1 xui-id="344" tvg-id="" tvg-name="SKY SPORTS PRIMIER LEAGUE" tvg-logo="" group-title="ALL CHANNELS",SKY SPORTS PRIMIER LEAGUE
 http://172.21.22.23:8080/live/7654321/1234567/344.m3u8
+
+# OTHERS CHANNELS
+#EXTINF:-1 xui-id="344" tvg-id="" tvg-name="JALSHA MOVIES" tvg-logo="" group-title="OTHERS CHANNELS",JALSHA MOVIES
+http://172.20.21.22/live/funtime1025/index.m3u8
