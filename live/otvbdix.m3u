@@ -14,12 +14,10 @@ https://noffeexlive.vercel.app/live/217968.m3u8
 https://noffeexlive.vercel.app/live/167568.m3u8
 #EXTINF:-1 tvg-id="167569" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="CRICKET", PK: TEN SPORTS
 https://noffeexlive.vercel.app/live/167569.m3u8
-#EXTINF:-1 tvg-id="219643" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/ICC_T20_World_Cup_2022_Logo.png" group-title="CRICKET", T20 WORLD CUP 01
+#EXTINF:-1 tvg-id="219643" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/ICC_T20_World_Cup_2022_Logo.png" group-title="CRICKET", STAR SPPORTS 1
 https://noffeexlive.vercel.app/live/219643.m3u8
-#EXTINF:-1 tvg-id="219689" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET", PK: A Sports HD (Server 1)
+#EXTINF:-1 tvg-id="219689" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET", PK: A Sports HD
 https://noffeexlive.vercel.app/live/219689.m3u8
-#EXTINF:-1 tvg-id="221417" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET", PK: A Sports HD (Server 2)
-https://noffeexlive.vercel.app/live/221417.m3u8
 #EXTINF:-1 tvg-id="167570" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="CRICKET", IN | SONY TEN 1 HD
 https://noffeexlive.vercel.app/live/167570.m3u8
 #EXTINF:-1 tvg-id="167571" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="CRICKET", IN | SONY TEN 2 HD
@@ -48,7 +46,7 @@ https://noffeexlive.vercel.app/live/167577.m3u8
 https://noffeexlive.vercel.app/live/167578.m3u8
 #EXTINF:-1 tvg-id="167579" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET", IN | STAR SPORTS SELECT 2
 https://noffeexlive.vercel.app/live/167579.m3u8
-#EXTINF:-1 tvg-id="382205" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="CRICKET", IN: Sports 18 (4K)
+#EXTINF:-1 tvg-id="382205" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="CRICKET", IN: Sports 18
 https://noffeexlive.vercel.app/live/382205.m3u8
 #EXTINF:-1 tvg-id="167581" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="CRICKET", IN | Astro Cricket HD
 https://noffeexlive.vercel.app/live/167581.m3u8
@@ -90,10 +88,14 @@ https://noffeexlive.vercel.app/live/371469.m3u8
 https://noffeexlive.vercel.app/live/371470.m3u8
 #EXTINF:-1 tvg-id="371471" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="CRICKET", StarzPlay CricLife 3
 https://noffeexlive.vercel.app/live/371471.m3u8
+#EXTINF:-1 tvg-id="381323" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="CRICKET", AR: BeIN Sports English 1 FHD
+https://noffeexlive.vercel.app/live/381323.m3u8
+#EXTINF:-1 tvg-id="381324" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="CRICKET", AR: BeIN Sports English 2 HD
+https://noffeexlive.vercel.app/live/381324.m3u8
+#EXTINF:-1 tvg-id="381358" tvg-logo="http://109.238.11.8:25461/images/d7fpHzS1ZUKA38F6k1H10kfs4e5ShS4E.jpg" group-title="CRICKET", US: Bein Sports HD (USA)
+https://noffeexlive.vercel.app/live/381358.m3u8
 
 #Category: PAKISTAN 
-#EXTINF:-1 tvg-id="221337" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN ", PK | ARY DIGITAL
-https://noffeexlive.vercel.app/live/221337.m3u8
 #EXTINF:-1 tvg-id="25989" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN ", PK | ARY DIGITAL HD
 https://noffeexlive.vercel.app/live/25989.m3u8
 #EXTINF:-1 tvg-id="25990" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="PAKISTAN ", PK | ARY ZINDAGI
@@ -104,7 +106,7 @@ https://noffeexlive.vercel.app/live/103673.m3u8
 https://noffeexlive.vercel.app/live/26010.m3u8
 #EXTINF:-1 tvg-id="221339" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ", PK | HUM TV HD
 https://noffeexlive.vercel.app/live/221339.m3u8
-#EXTINF:-1 tvg-id="25981" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ", PK | HUM TV (4K)
+#EXTINF:-1 tvg-id="25981" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ", PK | HUM TV 
 https://noffeexlive.vercel.app/live/25981.m3u8
 #EXTINF:-1 tvg-id="25983" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ", PK | HUM SITARAY
 https://noffeexlive.vercel.app/live/25983.m3u8
@@ -608,29 +610,29 @@ https://noffeexlive.vercel.app/live/275337.m3u8
 https://noffeexlive.vercel.app/live/374980.m3u8
 
 #Category: INDIAN 
-#EXTINF:-1 tvg-id="109982" tvg-logo="https://avatars.githubusercontent.com/u/263008436?v=4&size=360" group-title="INDIAN ", ***IND: SPORTS (4K ULTRA HD)***
+#EXTINF:-1 tvg-id="109982" tvg-logo="https://avatars.githubusercontent.com/u/263008436?v=4&size=360" group-title="INDIAN ", ***IND: SPORTS 
 https://noffeexlive.vercel.app/live/109982.m3u8
-#EXTINF:-1 tvg-id="109983" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="INDIAN ", Sony Ten 1 (4K)
+#EXTINF:-1 tvg-id="109983" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="INDIAN ", Sony Ten 1 
 https://noffeexlive.vercel.app/live/109983.m3u8
-#EXTINF:-1 tvg-id="109984" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="INDIAN ", Sony Ten 2 (4K)
+#EXTINF:-1 tvg-id="109984" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="INDIAN ", Sony Ten 2 
 https://noffeexlive.vercel.app/live/109984.m3u8
-#EXTINF:-1 tvg-id="109985" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="INDIAN ", Sony Ten 3 (4K)
+#EXTINF:-1 tvg-id="109985" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="INDIAN ", Sony Ten 3 
 https://noffeexlive.vercel.app/live/109985.m3u8
-#EXTINF:-1 tvg-id="109986" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN ", Star Sport 1 HINDI (4K)
+#EXTINF:-1 tvg-id="109986" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN ", Star Sport 1 HINDI 
 https://noffeexlive.vercel.app/live/109986.m3u8
-#EXTINF:-1 tvg-id="109987" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN ", Star Sports 1 (4K)
+#EXTINF:-1 tvg-id="109987" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN ", Star Sports 1 
 https://noffeexlive.vercel.app/live/109987.m3u8
-#EXTINF:-1 tvg-id="109988" tvg-logo="https://avatars.githubusercontent.com/u/263008436?v=4&size=360" group-title="INDIAN ", Star Sports 2 (4K)
+#EXTINF:-1 tvg-id="109988" tvg-logo="https://avatars.githubusercontent.com/u/263008436?v=4&size=360" group-title="INDIAN ", Star Sports 2 
 https://noffeexlive.vercel.app/live/109988.m3u8
-#EXTINF:-1 tvg-id="390407" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/02/CT2025.png" group-title="INDIAN ", STAR 4K
+#EXTINF:-1 tvg-id="390407" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/02/CT2025.png" group-title="INDIAN ", STAR 
 https://noffeexlive.vercel.app/live/390407.m3u8
-#EXTINF:-1 tvg-id="109992" tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" group-title="INDIAN ", SONY SIX (4K)
+#EXTINF:-1 tvg-id="109992" tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" group-title="INDIAN ", SONY SIX 
 https://noffeexlive.vercel.app/live/109992.m3u8
-#EXTINF:-1 tvg-id="109993" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN ", Star Sports Select 1 (4K)
+#EXTINF:-1 tvg-id="109993" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN ", Star Sports Select 1 
 https://noffeexlive.vercel.app/live/109993.m3u8
-#EXTINF:-1 tvg-id="109994" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="INDIAN ", Star Sports Select 2 (4K)
+#EXTINF:-1 tvg-id="109994" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="INDIAN ", Star Sports Select 2 
 https://noffeexlive.vercel.app/live/109994.m3u8
-#EXTINF:-1 tvg-id="206324" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="INDIAN ", IN: EUROPSPORT (4K)
+#EXTINF:-1 tvg-id="206324" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="INDIAN ", IN: EUROPSPORT 
 https://noffeexlive.vercel.app/live/206324.m3u8
 
 #Category: INDIAN 
@@ -820,90 +822,6 @@ https://noffeexlive.vercel.app/live/355824.m3u8
 https://noffeexlive.vercel.app/live/408415.m3u8
 #EXTINF:-1 tvg-id="412967" tvg-logo="http://logo.opplextv.com/logo/PCVWebTV.jpeg" group-title="BANGLADESH", BD | PCV WebTV
 https://noffeexlive.vercel.app/live/412967.m3u8
-
-#Category: BEIN SPORTS
-#EXTINF:-1 tvg-id="381323" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS", AR: BeIN Sports English 1 FHD
-https://noffeexlive.vercel.app/live/381323.m3u8
-#EXTINF:-1 tvg-id="381325" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS", AR: BeIN Sports English 2 FHD
-https://noffeexlive.vercel.app/live/381325.m3u8
-#EXTINF:-1 tvg-id="381324" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS", AR: BeIN Sports English 2 HD
-https://noffeexlive.vercel.app/live/381324.m3u8
-#EXTINF:-1 tvg-id="381326" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports_News.png" group-title="BEIN SPORTS", AR: BeIN Sports News FHD
-https://noffeexlive.vercel.app/live/381326.m3u8
-#EXTINF:-1 tvg-id="381327" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports.png" group-title="BEIN SPORTS", AR: BeIN Sports HD
-https://noffeexlive.vercel.app/live/381327.m3u8
-#EXTINF:-1 tvg-id="381328" tvg-logo="https://img.kooora.com/?i=katkotati%2F4k.gif" group-title="BEIN SPORTS", AR: BeIN 4K
-https://noffeexlive.vercel.app/live/381328.m3u8
-#EXTINF:-1 tvg-id="381329" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports1.png" group-title="BEIN SPORTS", AR: BeIN Sports 1 FHD
-https://noffeexlive.vercel.app/live/381329.m3u8
-#EXTINF:-1 tvg-id="381330" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports1.png" group-title="BEIN SPORTS", AR: BeIN Sports 1 HD
-https://noffeexlive.vercel.app/live/381330.m3u8
-#EXTINF:-1 tvg-id="381331" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports2.png" group-title="BEIN SPORTS", AR: BeIN Sports 2 FHD
-https://noffeexlive.vercel.app/live/381331.m3u8
-#EXTINF:-1 tvg-id="381332" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports2.png" group-title="BEIN SPORTS", AR: BeIN Sports 2 HD
-https://noffeexlive.vercel.app/live/381332.m3u8
-#EXTINF:-1 tvg-id="381333" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports3.png" group-title="BEIN SPORTS", AR: BeIN Sports 3 FHD
-https://noffeexlive.vercel.app/live/381333.m3u8
-#EXTINF:-1 tvg-id="381334" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports3.png" group-title="BEIN SPORTS", AR: BeIN Sports 3 HD
-https://noffeexlive.vercel.app/live/381334.m3u8
-#EXTINF:-1 tvg-id="381335" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports4.png" group-title="BEIN SPORTS", AR: BeIN Sports 4 FHD
-https://noffeexlive.vercel.app/live/381335.m3u8
-#EXTINF:-1 tvg-id="381336" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports4.png" group-title="BEIN SPORTS", AR: BeIN Sports 4 HD
-https://noffeexlive.vercel.app/live/381336.m3u8
-#EXTINF:-1 tvg-id="381337" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports5.png" group-title="BEIN SPORTS", AR: BeIN Sports 5 FHD
-https://noffeexlive.vercel.app/live/381337.m3u8
-#EXTINF:-1 tvg-id="381338" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports5.png" group-title="BEIN SPORTS", AR: BeIN Sports 5 HD
-https://noffeexlive.vercel.app/live/381338.m3u8
-#EXTINF:-1 tvg-id="381339" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports6.png" group-title="BEIN SPORTS", AR: BeIN Sports 6 FHD
-https://noffeexlive.vercel.app/live/381339.m3u8
-#EXTINF:-1 tvg-id="381340" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports6.png" group-title="BEIN SPORTS", AR: BeIN Sports 6 HD
-https://noffeexlive.vercel.app/live/381340.m3u8
-#EXTINF:-1 tvg-id="381341" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports7.png" group-title="BEIN SPORTS", AR: BeIN Sports 7 FHD
-https://noffeexlive.vercel.app/live/381341.m3u8
-#EXTINF:-1 tvg-id="381342" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports7.png" group-title="BEIN SPORTS", AR: BeIN Sports 7 HD
-https://noffeexlive.vercel.app/live/381342.m3u8
-#EXTINF:-1 tvg-id="381343" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.png" group-title="BEIN SPORTS", AR: BeIN Sports 8 FHD
-https://noffeexlive.vercel.app/live/381343.m3u8
-#EXTINF:-1 tvg-id="381344" tvg-logo="https://prod-media.beinsports.com/image/a9dd7e3c6ee87a48cb35b729caf61eb5.png" group-title="BEIN SPORTS", AR: BeIN Sports 8 HD
-https://noffeexlive.vercel.app/live/381344.m3u8
-#EXTINF:-1 tvg-id="381345" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.png" group-title="BEIN SPORTS", AR: BeIN Sports 9 FHD
-https://noffeexlive.vercel.app/live/381345.m3u8
-#EXTINF:-1 tvg-id="381346" tvg-logo="https://prod-media.beinsports.com/image/de9d96171258bf940fc7b77c09b1cde4.png" group-title="BEIN SPORTS", AR: BeIN Sports 9 HD
-https://noffeexlive.vercel.app/live/381346.m3u8
-#EXTINF:-1 tvg-id="381348" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png" group-title="BEIN SPORTS", AR: BeIN Sports AFC 1 HD
-https://noffeexlive.vercel.app/live/381348.m3u8
-#EXTINF:-1 tvg-id="381349" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png" group-title="BEIN SPORTS", AR: BeIN Sports AFC 2 HD
-https://noffeexlive.vercel.app/live/381349.m3u8
-#EXTINF:-1 tvg-id="381350" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png" group-title="BEIN SPORTS", AR: BeIN Sports AFC 3 HD
-https://noffeexlive.vercel.app/live/381350.m3u8
-#EXTINF:-1 tvg-id="381347" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png" group-title="BEIN SPORTS", AR: BeIN Sports AFC HD
-https://noffeexlive.vercel.app/live/381347.m3u8
-#EXTINF:-1 tvg-id="381351" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="BEIN SPORTS", AR: BeIN Sports French 1 FHD
-https://noffeexlive.vercel.app/live/381351.m3u8
-#EXTINF:-1 tvg-id="381352" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="BEIN SPORTS", AR: BeIN Sports French 2 FHD
-https://noffeexlive.vercel.app/live/381352.m3u8
-#EXTINF:-1 tvg-id="381353" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="BEIN SPORTS", AR: BeIN Sports French 3 FHD
-https://noffeexlive.vercel.app/live/381353.m3u8
-#EXTINF:-1 tvg-id="381357" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_NbA.png" group-title="BEIN SPORTS", AR: BeIN Sports NBA
-https://noffeexlive.vercel.app/live/381357.m3u8
-#EXTINF:-1 tvg-id="381354" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="BEIN SPORTS", AR: BeIN Sports Xtra 1 HD
-https://noffeexlive.vercel.app/live/381354.m3u8
-#EXTINF:-1 tvg-id="381355" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="BEIN SPORTS", AR: BeIN Sports Xtra 2 HD
-https://noffeexlive.vercel.app/live/381355.m3u8
-#EXTINF:-1 tvg-id="381356" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F2%2F35%2Fbein-sports-hd-1.png" group-title="BEIN SPORTS", AR: BeIN Sports Xtra 3 HD
-https://noffeexlive.vercel.app/live/381356.m3u8
-#EXTINF:-1 tvg-id="381360" tvg-logo="https://pbs.twimg.com/profile_images/819677684330598400/B-7iG0oq.jpg" group-title="BEIN SPORTS", TR: BeIN Sports HD 1 (Turkish)
-https://noffeexlive.vercel.app/live/381360.m3u8
-#EXTINF:-1 tvg-id="381361" tvg-logo="https://pbs.twimg.com/profile_images/819677684330598400/B-7iG0oq.jpg" group-title="BEIN SPORTS", TR: BeIN Sports HD 2 (Turkish)
-https://noffeexlive.vercel.app/live/381361.m3u8
-#EXTINF:-1 tvg-id="381362" tvg-logo="https://pbs.twimg.com/profile_images/819677684330598400/B-7iG0oq.jpg" group-title="BEIN SPORTS", TR: BeIN Sports HD 3 (Turkish)
-https://noffeexlive.vercel.app/live/381362.m3u8
-#EXTINF:-1 tvg-id="381363" tvg-logo="https://pbs.twimg.com/profile_images/819677684330598400/B-7iG0oq.jpg" group-title="BEIN SPORTS", TR: BeIN Sports HD 4 (Turkish)
-https://noffeexlive.vercel.app/live/381363.m3u8
-#EXTINF:-1 tvg-id="381358" tvg-logo="http://109.238.11.8:25461/images/d7fpHzS1ZUKA38F6k1H10kfs4e5ShS4E.jpg" group-title="BEIN SPORTS", US: Bein Sports HD (USA)
-https://noffeexlive.vercel.app/live/381358.m3u8
-#EXTINF:-1 tvg-id="381359" tvg-logo="https://www.fubo.tv/lp/ca/live/images/channels/logo-beIN-Sports-Spanish.png" group-title="BEIN SPORTS", US: BeIN Sports ñ HD
-https://noffeexlive.vercel.app/live/381359.m3u8
 
 #Category: DAZN SPORTS (VIP)
 #EXTINF:-1 tvg-id="223055" tvg-logo="http://flags.fmcdn.net/data/flags/w580/gb.png" group-title="DAZN SPORTS (VIP)", •●★--- UK EPL 3PM ----★●•
