@@ -1,0 +1,43 @@
+#EXTM3U
+
+# collected by "johirxofficial"
+
+#EXTINF:-1 tvg-id="DeeptoTVHD.bd" tvg-name="Deepto TV HD" tvg-logo="https://i.imgur.com/deepto.png" group-title="AKASH GO",Deepto TV HD 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="Bangla Vision" tvg-logo="https://i.imgur.com/banglavision.png" group-title="AKASH GO",Bangla Vision 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-id="BTV.bd" tvg-name="BTV" tvg-logo="https://i.imgur.com/btv.png" group-title="AKASH GO",BTV 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-id="HUMTV.pk" tvg-name="HUM TV" tvg-logo="https://i.imgur.com/humtv.png" group-title="AKASH GO",HUM TV 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="https://i.imgur.com/ntv.png" group-title="AKASH GO",NTV 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="https://i.imgur.com/atnbangla.png" group-title="AKASH GO",ATN Bangla 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelIHD.bd" tvg-name="Channel I HD" tvg-logo="https://i.imgur.com/channeli.png" group-title="AKASH GO",Channel I HD 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV" tvg-logo="https://i.imgur.com/jamunatv.png" group-title="AKASH GO",Jamuna TV 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News" tvg-logo="https://i.imgur.com/atnnews.png" group-title="AKASH GO",ATN News 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel24HD.bd" tvg-name="Channel 24 HD" tvg-logo="https://i.imgur.com/channel24.png" group-title="AKASH GO",Channel 24 HD 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-id="EkattorHD.bd" tvg-name="Ekattor HD" tvg-logo="https://i.imgur.com/ekattor.png" group-title="AKASH GO",Ekattor HD 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-id="IndependentTV.bd" tvg-name="Independent TV" tvg-logo="https://i.imgur.com/independent.png" group-title="AKASH GO",Independent TV 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="https://i.imgur.com/somoy.png" group-title="AKASH GO",Somoy 📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
